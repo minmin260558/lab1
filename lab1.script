@@ -1,0 +1,13 @@
+Script started on 2016年03月08日 (週二) 09時49分13秒
+]0;F74046357@2015cpp: ~[01;32mF74046357@2015cpp[00m:[01;34m~[00m$ whoamil[K;[[Kpwd
+F74046357
+/home/F74046357
+]0;F74046357@2015cpp: ~[01;32mF74046357@2015cpp[00m:[01;34m~[00m$ git config -l
+user.email=minmin260558@gmail.com
+user.name=minmin260558
+]0;F74046357@2015cpp: ~[01;32mF74046357@2015cpp[00m:[01;34m~[00m$ git clone t[Khttp;[K://githun[Kb.com/minmin260558/lab1/[K.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74046357@2015cpp: ~[01;32mF74046357@2015cpp[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2016年03月08日 (週二) 09時50分24秒
